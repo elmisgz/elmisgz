@@ -11,7 +11,7 @@ Soy [Elmis J. García Zare], Ingeniero estadístico y un entusiasta de la progra
 - 💡 Estoy interesado/a en [temas o áreas específicas de interés].
 - 💬 Puedes preguntarme acerca de [temas o áreas en las que tengas experiencia].
 - 📫 Cómo contactarme: [ejgarcia@ucv.edu.pe].
-- ⚡ Dato curioso: [He realizado pasantias de investigación en la Universitat de Valencia (España) y la Pontificia Universidad Católica del Perú].
+- ⚡ [He realizado pasantias de investigación en la Universitat de Valencia (España) y la Pontificia Universidad Católica del Perú].
 
 ## Proyectos destacados
 
