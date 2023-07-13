@@ -2,16 +2,16 @@
 
 ¡Bienvenido/a a mi perfil de GitHub!
 
-Soy [Tu Nombre], un entusiasta de la programación y amante del código limpio. Me apasiona [menciona tus intereses o especialidades], y me encanta contribuir a proyectos de código abierto.
+Soy [Elmis J. García Zare], Ingeniero estadístico y un entusiasta de la programación. Me apasiona [analizar datos y programar códigos en R], y me encanta contribuir a proyectos de código abierto.
 
 ## Sobre mí
 
-- 🔭 Actualmente estoy trabajando en [tu proyecto o empleo actual].
+- 🔭 Actualmente estoy trabajando en [el área de Investigación del programa SUBE-UCV].
 - 🌱 Estoy aprendiendo [tecnologías o habilidades que estés estudiando actualmente].
 - 💡 Estoy interesado/a en [temas o áreas específicas de interés].
 - 💬 Puedes preguntarme acerca de [temas o áreas en las que tengas experiencia].
-- 📫 Cómo contactarme: [correo electrónico o enlaces a tus perfiles de redes sociales].
-- ⚡ Dato curioso: [comparte un dato curioso o algo interesante sobre ti].
+- 📫 Cómo contactarme: [ejgarcia@ucv.edu.pe].
+- ⚡ Dato curioso: [He realizado pasantias de investigación en la Universitat de Valencia (España) y la Pontificia Universidad Católica del Perú].
 
 ## Proyectos destacados
 
