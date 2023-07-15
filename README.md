@@ -21,7 +21,7 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 - [Nombre del Proyecto 2](enlace al repositorio): Breve descripción del proyecto.
 - [Nombre del Proyecto 3](enlace al repositorio): Breve descripción del proyecto.
 
-# Título del video
+## Título del video
 
 [![Descripción del video](https://i.ytimg.com/vi/YlUKcNNmywk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAuhpMs-EkC1IfJVKFTmgirF6ejAg)](https://youtu.be/YlUKcNNmywk)
 
