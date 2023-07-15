@@ -25,7 +25,6 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 [![Descripción del video](https://i.ytimg.com/vi/YlUKcNNmywk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAuhpMs-EkC1IfJVKFTmgirF6ejAg)](https://youtu.be/YlUKcNNmywk)
 
-<iframe width="560" height="315" src="https://youtu.be/YlUKcNNmywk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 No dudes en explorar mi perfil y revisar mis repositorios para ver más proyectos y colaboraciones.
 
