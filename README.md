@@ -21,7 +21,9 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 - [Nombre del Proyecto 2](enlace al repositorio): Breve descripción del proyecto.
 - [Nombre del Proyecto 3](enlace al repositorio): Breve descripción del proyecto.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YlUKcNNmywk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+# Título del video
+
+<iframe width="560" height="315" src="https://youtu.be/YlUKcNNmywk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 No dudes en explorar mi perfil y revisar mis repositorios para ver más proyectos y colaboraciones.
 
